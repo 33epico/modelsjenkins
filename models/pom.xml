@@ -3,6 +3,7 @@
   <groupId>com.arquitecturajava.webspring</groupId>
   <artifactId>models</artifactId>
   <version>1</version>
+    <packaging>jar</packaging> 
   
   <!-- Especificar la versión de Java -->
   <properties>
