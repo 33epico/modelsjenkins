@@ -41,7 +41,7 @@ class PersonaTest {
 		//Arrange: preparar
 		Persona p = new Persona("pepe",20);		
 		boolean esMayor = p.esMayorEdad();		
-		assertTrue(false);
+		assertTrue(esMayor);
 	}
 
 }
